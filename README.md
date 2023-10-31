@@ -1,5 +1,3 @@
-HOLA ACA ALGUNOS COMANDOS EN GIT
-
 GUIA PARA GIT 
 
 1_ Iniciar GIT en una carpeta
