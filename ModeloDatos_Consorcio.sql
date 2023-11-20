@@ -1,4 +1,4 @@
---base de datos consorcio
+--base de datos consorcio--
 CREATE DATABASE base_consorcio;
 go
 USE base_consorcio;
