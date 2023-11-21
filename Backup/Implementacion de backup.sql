@@ -1,5 +1,6 @@
 
 
+--GRUPO 1--
 -- 1 Verificar el modo de recuperacion de la base de datos
 use base_consorcio
 
