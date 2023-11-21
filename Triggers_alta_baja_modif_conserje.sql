@@ -50,6 +50,7 @@ insert into auditoria_conserje values (@idconserje, @apeynom,@tel, @fechnac, @es
 
 
 Insert into conserje (ApeyNom,tel,fechnac,estciv) values ('guillermo hugo ggA.', '000000001', '19870223', 'C');
+Insert into conserje (ApeyNom,tel,fechnac,estciv) values ('enzo lopez.', '111111111', '22222222', 'C');
 select* from auditoria_conserje;
 
 
